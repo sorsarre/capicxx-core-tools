@@ -10,6 +10,7 @@
 <repository location="http://download.eclipse.org/eclipse/updates/4.7/"/>
 </location>
 <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.eclipse.equinox.executable.feature.group"/>
 <unit id="org.eclipse.cdt.sdk.feature.group" version="9.3.0.201701302007"/>
 <unit id="org.eclipse.xtend.sdk.feature.group" version="2.11.0.v20170201-0242"/>
 <repository location="http://download.eclipse.org/releases/oxygen"/>
